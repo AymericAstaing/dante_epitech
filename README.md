@@ -7,7 +7,7 @@ The project consists of:
 
 to build:
 
-    - make / make re
+    make / make re
 
 to launch generator:
 
