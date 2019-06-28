@@ -1,4 +1,4 @@
-#dante_epitech (TECH 1 2017-2018)
+# dante_epitech (TECH 1 2017-2018)
 
 The project consists of:
 
