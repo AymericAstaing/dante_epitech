@@ -1,4 +1,4 @@
-# dante_epitech (TECH 1 2017-2018)
+# dante_epitech
 
 The project consists of:
 
@@ -16,5 +16,3 @@ to launch generator:
 to launch solver:
 
     ./solver maze.txt
-    
-Aymeric Astaing - EPITECH PARIS PROMO 2022
